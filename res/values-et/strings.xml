@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Minu asukoht 1 x 1</string>
+  <string name="widget_label_2x1">Minu asukoht 2 x 1</string>
+  <string name="widget_label_4x1">Minu asukoht 4 x 1</string>
+  <string name="my_location">Minu asukoht</string>
+  <string name="app_name">Minu asukoht Widget</string>
+  <string name="location_not_found">Ei leia asukoht</string>
+  <string name="tap_here_to_fix_that">Koputage siin määrata asukoha sätted.</string>
+  <string name="share_location">Aktsia asukoht</string>
+  <string name="view_location">Kuva asukoht</string>
+  <string name="unknown_location">Tundmatu asukoha</string>
+  <string name="determining_address">Lahendada aadress...</string>
+  <string name="finding_location">Asukoha otsimine</string>
+  <string name="tap_to_get_location">&lt; koputage ikooni asukoha saada.</string>
+  <string name="tap_to_cancel">Koputage tühistamiseks.</string>
+  <string name="cannot_share_location">Asukohta ei saa ühiskasutusse anda.</string>
+  <!-- Share Types -->
+  <string name="address">Aadress</string>
+  <string name="coordinates">Koordinaadid</string>
+  <string name="maps_link">Kaardid link</string>
+  <string name="address_with_link">Aadressi vastenduse link koos</string>
+  <!-- View Types -->
+  <string name="you_are_here">Oled siin</string>
+  <string name="your_friend_is_here">Teie sõber on siin</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="com.futonredemption.mylocation" android:versionName="6.0" android:versionCode="60">
+	<application android:icon="@drawable/icon" android:label="@string/app_name"
+				 android:debuggable="false" android:hardwareAccelerated="true">
+		<activity android:name="org.beryl.app.IntentChooser"
+                  android:label="@string/my_location"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar"
+                  android:launchMode="singleTop"
+                  android:noHistory="true"
+                  android:excludeFromRecents="true">
+        </activity>
+ 
+		<receiver android:name=".appwidgets.AppWidgetProvider1x1" android:label="@string/widget_label_1x1"
+			android:enabled="true" android:exported="true">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/appwidget_1x1" />
+		</receiver>
+		<receiver android:name=".appwidgets.AppWidgetProvider2x1" android:label="@string/widget_label_2x1"
+			android:enabled="true" android:exported="true">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/appwidget_2x1" />
+		</receiver>
+		<receiver android:name=".appwidgets.AppWidgetProvider4x1" android:label="@string/widget_label_4x1"
+			android:enabled="true" android:exported="true">
+			<intent-filter>
+				<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+			</intent-filter>
+			<meta-data android:name="android.appwidget.provider"
+				android:resource="@xml/appwidget_4x1" />
+		</receiver>
+		<service android:name=".services.WidgetUpdateService" android:label="@string/app_name" />
+		
+		<meta-data android:name="com.google.android.backup.api_key"
+    android:value="AEdPqrEAAAAIu-hDJ2ITJ4ATIgwAaRQFkdpwgG0RnIlkLFH3wQ" />
+	</application>
+	
+	<uses-sdk android:minSdkVersion="3" android:targetSdkVersion="12" />
+
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	
+	<uses-feature android:name="android.hardware.location" android:required="true" />
+	<uses-feature android:name="android.hardware.location.network" android:required="false" />
+	<uses-feature android:name="android.hardware.location.gps" android:required="false" />
+</manifest>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Lokasiku 1 x 1</string>
+  <string name="widget_label_2x1">Lokasiku 2 x 1</string>
+  <string name="widget_label_4x1">Lokasiku 4 x 1</string>
+  <string name="my_location">Lokasiku</string>
+  <string name="app_name">Widget lokasi saya</string>
+  <string name="location_not_found">Tidak dapat menemukan lokasi</string>
+  <string name="tap_here_to_fix_that">Tekan di sini untuk memperbaiki pengaturan lokasi.</string>
+  <string name="share_location">Berbagi lokasi</string>
+  <string name="view_location">Lihat lokasi</string>
+  <string name="unknown_location">Lokasi yang tidak diketahui</string>
+  <string name="determining_address">Menyelesaikan alamat...</string>
+  <string name="finding_location">Menemukan lokasi</string>
+  <string name="tap_to_get_location">&lt; tekan ikon untuk mendapatkan lokasi.</string>
+  <string name="tap_to_cancel">Tekan untuk membatalkan.</string>
+  <string name="cannot_share_location">Tidak dapat berbagi lokasi.</string>
+  <!-- Share Types -->
+  <string name="address">Alamat</string>
+  <string name="coordinates">Koordinat</string>
+  <string name="maps_link">Peta link</string>
+  <string name="address_with_link">Alamat dengan peta link</string>
+  <!-- View Types -->
+  <string name="you_are_here">You are here</string>
+  <string name="your_friend_is_here">Teman Anda adalah disini</string>
+</resources>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Mé umístění 1 x 1</string>
+  <string name="widget_label_2x1">Mé místo 2 x 1</string>
+  <string name="widget_label_4x1">Mé umístění 4 x 1</string>
+  <string name="my_location">Mé umístění</string>
+  <string name="app_name">Mé umístění widget</string>
+  <string name="location_not_found">Nelze najít umístění</string>
+  <string name="tap_here_to_fix_that">Klepnutím sem opravit nastavení umístění.</string>
+  <string name="share_location">Podíl na umístění</string>
+  <string name="view_location">Zobrazení umístění</string>
+  <string name="determining_address">Překládání adres...</string>
+  <string name="finding_location">Zjištění umístění</string>
+  <string name="tap_to_get_location">&lt; kohoutku ikonu získat umístění.</string>
+  <string name="tap_to_cancel">Klepněte na zrušit.</string>
+  <string name="cannot_share_location">Umístění nelze sdílet.</string>
+  <!-- Share Types -->
+  <string name="address">Adresa</string>
+  <string name="coordinates">Souřadnice</string>
+  <string name="maps_link">Odkaz na mapy</string>
+  <string name="address_with_link">Adresa odkazu mapa</string>
+  <!-- View Types -->
+  <string name="you_are_here">Nacházíte se zde</string>
+  <string name="your_friend_is_here">Váš přítel je zde</string>
+</resources>

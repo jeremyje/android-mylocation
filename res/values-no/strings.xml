@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">My Location 1 x 1</string>
+  <string name="widget_label_2x1">My Location 2 x 1</string>
+  <string name="widget_label_4x1">My Location 4 x 1</string>
+  <string name="app_name">Min plassering-widget</string>
+  <string name="location_not_found">Finner ikke plassering</string>
+  <string name="tap_here_to_fix_that">Tapp her for å reparere innstillingene for plassering.</string>
+  <string name="share_location">Dele plassering</string>
+  <string name="view_location">Vis plassering</string>
+  <string name="unknown_location">Ukjent plassering</string>
+  <string name="determining_address">Løsing av adresse...</string>
+  <string name="finding_location">Finne sted</string>
+  <string name="tap_to_get_location">&lt; Tapp ikonet for å få plasseringen.</string>
+  <string name="tap_to_cancel">Tapp for å avbryte.</string>
+  <string name="cannot_share_location">Kan ikke dele posisjon.</string>
+  <!-- Share Types -->
+  <string name="address">Adresse</string>
+  <string name="coordinates">Koordinater</string>
+  <string name="maps_link">Kart-link</string>
+  <string name="address_with_link">Adresse med kart link</string>
+  <!-- View Types -->
+  <string name="you_are_here">Du er her</string>
+  <string name="your_friend_is_here">Din venn er her</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/appwidget_bg">
+    <ImageButton
+        android:id="@+id/btnAction"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:src="@drawable/btn_cancel"
+		android:background="@drawable/appwidget_button_left"
+        android:scaleType="centerInside"
+        />
+	<ImageView
+        android:layout_width="1dip"
+        android:layout_height="fill_parent"
+        android:background="@drawable/appwidget_divider"
+        />
+    <TextView
+        android:id="@+id/panelInformation"
+        android:gravity="center_vertical|center_horizontal"
+        android:layout_width="0dip"
+        android:layout_weight="2"
+        android:layout_height="fill_parent"
+        android:textColor="@color/appwidget_text"
+        android:textSize="13sp"
+        android:fadingEdge="horizontal"
+        android:fadingEdgeLength="10dip"
+        android:ellipsize="none"
+        />
+</LinearLayout>

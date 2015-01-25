@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Vị trí của tôi 1 x 1</string>
+  <string name="widget_label_2x1">Vị trí của tôi, 2 x 1</string>
+  <string name="widget_label_4x1">Vị trí của tôi 4 x 1</string>
+  <string name="my_location">Vị trí của tôi</string>
+  <string name="app_name">Vị trí tiện ích của tôi</string>
+  <string name="location_not_found">Không thể tìm vị trí</string>
+  <string name="tap_here_to_fix_that">Tập ở đây để sửa thiết đặt vị trí.</string>
+  <string name="share_location">Chia sẻ vị trí</string>
+  <string name="view_location">Xem vị trí</string>
+  <string name="unknown_location">Vị trí không xác định</string>
+  <string name="determining_address">Giải quyết vụ án địa chỉ...</string>
+  <string name="finding_location">Tìm vị trí</string>
+  <string name="tap_to_get_location">&lt; vòi biểu tượng để có được vị trí.</string>
+  <string name="tap_to_cancel">Baám ñeå huûy.</string>
+  <string name="cannot_share_location">Không thể chia sẻ vị trí.</string>
+  <!-- Share Types -->
+  <string name="address">Địa chỉ</string>
+  <string name="coordinates">Tọa độ</string>
+  <string name="maps_link">Bản đồ liên kết</string>
+  <string name="address_with_link">Địa chỉ với bản đồ liên kết</string>
+  <!-- View Types -->
+  <string name="you_are_here">Bạn đang ở đây</string>
+  <string name="your_friend_is_here">Bạn bè của bạn là ở đây</string>
+</resources>

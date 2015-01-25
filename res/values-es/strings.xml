@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Mi ubicación 1 x 1</string>
+  <string name="widget_label_2x1">Mi ubicación 2 x 1</string>
+  <string name="widget_label_4x1">Mi ubicación 4 x 1</string>
+  <string name="my_location">Mi ubicación</string>
+  <string name="app_name">Mi widget de ubicación</string>
+  <string name="location_not_found">No se puede encontrar la ubicación</string>
+  <string name="tap_here_to_fix_that">Toque aquí para fijar los valores de ubicación.</string>
+  <string name="share_location">Ubicación de cuota</string>
+  <string name="view_location">Ubicación de la vista</string>
+  <string name="unknown_location">Ubicación desconocida</string>
+  <string name="determining_address">Resolver la dirección...</string>
+  <string name="finding_location">Encontrar ubicación</string>
+  <string name="tap_to_get_location">&lt; icono de llave de paso para obtener la ubicación.</string>
+  <string name="tap_to_cancel">Puntee en Cancelar.</string>
+  <string name="cannot_share_location">No puede compartir la ubicación.</string>
+  <!-- Share Types -->
+  <string name="address">Dirección</string>
+  <string name="coordinates">Coordenadas</string>
+  <string name="maps_link">Link de mapas</string>
+  <string name="address_with_link">Dirección con Link de mapa</string>
+  <!-- View Types -->
+  <string name="you_are_here">Usted está aquí</string>
+  <string name="your_friend_is_here">Su amigo es aquí</string>
+</resources>

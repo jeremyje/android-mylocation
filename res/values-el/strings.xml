@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Μου θέση 1 x 1</string>
+  <string name="widget_label_2x1">Μου θέση 2 x 1</string>
+  <string name="widget_label_4x1">Μου θέση 4 x 1</string>
+  <string name="my_location">Μου θέση</string>
+  <string name="app_name">Μου θέση Widget</string>
+  <string name="location_not_found">Δεν είναι δυνατή η εύρεση θέσης</string>
+  <string name="tap_here_to_fix_that">Χτυπήστε εδώ για να διορθώσετε τις ρυθμίσεις θέση.</string>
+  <string name="share_location">Μερίδιο θέση</string>
+  <string name="view_location">Προβολή θέση</string>
+  <string name="unknown_location">Άγνωστη τοποθεσία</string>
+  <string name="determining_address">Επίλυση διευθύνσεων...</string>
+  <string name="finding_location">Εύρεση θέσης</string>
+  <string name="tap_to_get_location">&lt; στρόφιγγα εικονίδιο να πάρετε θέση.</string>
+  <string name="tap_to_cancel">Κτυπήστε για να ακυρώσετε.</string>
+  <string name="cannot_share_location">Δεν είναι δυνατό να μοιραστούν θέση.</string>
+  <!-- Share Types -->
+  <string name="address">Διεύθυνση</string>
+  <string name="coordinates">Συντεταγμένες</string>
+  <string name="maps_link">Χάρτες Link</string>
+  <string name="address_with_link">Διεύθυνση με τον πίνακα Link</string>
+  <!-- View Types -->
+  <string name="you_are_here">Βρίσκεσαι εδώ</string>
+  <string name="your_friend_is_here">Φίλο σας είναι εδώ</string>
+</resources>

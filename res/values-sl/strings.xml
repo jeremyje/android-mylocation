@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Moje mesto 1 x 1</string>
+  <string name="widget_label_2x1">Moje mesto 2 x 1</string>
+  <string name="widget_label_4x1">Moje mesto 4 x 1</string>
+  <string name="my_location">Moje mesto</string>
+  <string name="app_name">Moj lokacija widget</string>
+  <string name="location_not_found">Ni mogoče najti mesto</string>
+  <string name="tap_here_to_fix_that">Tapnite tukaj, če želite določiti nastavitve mesta.</string>
+  <string name="share_location">Delež mesto</string>
+  <string name="view_location">Pogled lokacija</string>
+  <string name="unknown_location">Neznana lokacija</string>
+  <string name="determining_address">Reševanje naslov...</string>
+  <string name="finding_location">Iskanje mesta</string>
+  <string name="tap_to_get_location">&lt; pipe ikono priti mesto.</string>
+  <string name="tap_to_cancel">Tapnite, če želite preklicati.</string>
+  <string name="cannot_share_location">Ni mogoče deliti mesto.</string>
+  <!-- Share Types -->
+  <string name="address">Naslov</string>
+  <string name="coordinates">Koordinate</string>
+  <string name="maps_link">Zemljevidi Link</string>
+  <string name="address_with_link">Naslov s zemljevid Link</string>
+  <!-- View Types -->
+  <string name="you_are_here">Vi ste tukaj</string>
+  <string name="your_friend_is_here">Vaš prijatelj je tu</string>
+</resources>

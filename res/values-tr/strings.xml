@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Konumum 1 x 1</string>
+  <string name="widget_label_2x1">Konumum 2 x 1</string>
+  <string name="widget_label_4x1">Konumum 4 x 1</string>
+  <string name="my_location">Konumum</string>
+  <string name="app_name">Benim konum widget</string>
+  <string name="location_not_found">Konumu bulunamıyor</string>
+  <string name="tap_here_to_fix_that">Konum ayarlarını düzeltmek için buraya dokunun.</string>
+  <string name="share_location">Paylaşım yeri</string>
+  <string name="view_location">Konum görüntüleme</string>
+  <string name="unknown_location">Bilinmeyen konum</string>
+  <string name="determining_address">Adres çözme...</string>
+  <string name="finding_location">Konum bulma</string>
+  <string name="tap_to_get_location">&lt; konum almak için dokunun simgesi.</string>
+  <string name="tap_to_cancel">İptal etmek için dokunun.</string>
+  <string name="cannot_share_location">Konum paylaşamazsınız.</string>
+  <!-- Share Types -->
+  <string name="address">Adres</string>
+  <string name="coordinates">İletişim bilgileri</string>
+  <string name="maps_link">Haritalar bağlantı</string>
+  <string name="address_with_link">Adres eşleme bağlantısı ile</string>
+  <!-- View Types -->
+  <string name="you_are_here">You are here</string>
+  <string name="your_friend_is_here">Arkadaşınız İşte.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="widget_label_1x1">My Location 1x1</string>
+	<string name="widget_label_2x1">My Location 2x1</string>
+    <string name="widget_label_4x1">My Location 4x1</string>
+    <string name="my_location">My Location</string>
+    <string name="app_name">My Location Widget</string>
+    <string name="location_not_found">Cannot Find Location</string>
+    <string name="tap_here_to_fix_that">Tap here to fix location settings.</string>
+    <string name="share_location">Share Location</string>
+    <string name="view_location">View Location</string>
+    <string name="unknown_location">Unknown Location</string>
+    <string name="determining_address">Resolving address...</string>
+    <string name="finding_location">Finding Location</string>
+    <string name="tap_to_get_location">&lt; Tap icon to get location.</string>
+    <string name="tap_to_cancel">Tap to cancel.</string>
+    <string name="cannot_share_location">Cannot share location.</string>
+    
+    <!-- Share Types -->
+    <string name="address">Address</string>
+    <string name="coordinates">Coordinates</string>
+    <string name="maps_link">Maps Link</string>
+    <string name="address_with_link">Address with Map Link</string>
+    
+    <!-- View Types -->
+    <string name="nolocal_google_maps">Google Maps</string>
+    <string name="nolocal_flickr_photos">Photos on Flickr</string>
+	<string name="nolocal_panoramio_photos">Photos on Panoramio</string>
+	<string name="nolocal_info_from_geohack">Info from GeoHack</string>
+	<string name="nolocal_updates_from_google">Google Updates</string>
+	
+
+    <string name="you_are_here">You are Here</string>
+    <string name="your_friend_is_here">Your Friend is Here</string>
+</resources>

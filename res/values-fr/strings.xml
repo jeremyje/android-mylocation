@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Ma Position 1x1</string>
+  <string name="widget_label_2x1">Ma Position 2x1</string>
+  <string name="widget_label_4x1">Ma Position 4x1</string>
+  <string name="my_location">Ma Position</string>
+  <string name="app_name">Widget Ma Position</string>
+  <string name="location_not_found">Impossible de déterminer ma position</string>
+  <string name="tap_here_to_fix_that">Cliquez ici pour modifier les paramètres de positionnement.</string>
+  <string name="share_location">Partager ma position</string>
+  <string name="view_location">Afficher ma position</string>
+  <string name="unknown_location">Position inconnue</string>
+  <string name="determining_address">Chargement de l\'adresse...</string>
+  <string name="finding_location">Positionnement en cours</string>
+  <string name="tap_to_get_location">&lt; Cliquez pour déterminer ma position.</string>
+  <string name="tap_to_cancel">Cliquez pour annuler.</string>
+  <string name="cannot_share_location">Impossible de partager ma position.</string>
+
+  <!-- Share Types -->
+  <string name="address">Adresse</string>
+  <string name="coordinates">Coordonnées</string>
+  <string name="maps_link">Lien Google Maps</string>
+  <string name="address_with_link">Adresse et lien Google Maps</string>
+
+  <!-- View Types -->
+  <string name="nolocal_flickr_photos">Photos sur Flickr</string>
+  <string name="nolocal_panoramio_photos">Photos sur Panoramio</string>
+  <string name="nolocal_info_from_geohack">Page sur GeoHack</string>
+  <string name="nolocal_updates_from_google">Recherche Google</string>
+
+  <string name="you_are_here">Vous êtes ici</string>
+  <string name="your_friend_is_here">Votre ami est ici</string>
+</resources>

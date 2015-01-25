@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">M\' Location 1 x 1\'</string>
+  <string name="widget_label_2x1">M\' Location 2 x 1\'</string>
+  <string name="widget_label_4x1">M\' Location 4 x 1\'</string>
+  <string name="my_location">Location mwen</string>
+  <string name="app_name">Widget Location mwen</string>
+  <string name="location_not_found">Pa ka jwen Location</string>
+  <string name="tap_here_to_fix_that">Wobinè isit la pou ka ranje dantèl kote yo ye.</string>
+  <string name="share_location">Pataje Location</string>
+  <string name="view_location">Dapwè Location</string>
+  <string name="unknown_location">Aka san Location</string>
+  <string name="determining_address">Rezoud adrès...</string>
+  <string name="finding_location">Jwenn Location</string>
+  <string name="tap_to_get_location">&lt; icône Sur chache kote yo ye.</string>
+  <string name="tap_to_cancel">Wobinè pou anile.</string>
+  <string name="cannot_share_location">Pa ka pataje kote yo ye a.</string>
+  <!-- Share Types -->
+  <string name="address">Adrès</string>
+  <string name="coordinates">Koòdone</string>
+  <string name="maps_link">Riyan lyen</string>
+  <string name="address_with_link">Adrès ak kat lyen</string>
+  <!-- View Types -->
+  <string name="you_are_here">Ou-menm</string>
+  <string name="your_friend_is_here">Zanmi ou se isit la</string>
+</resources>

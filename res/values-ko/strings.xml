@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">내 위치 1 x 1</string>
+  <string name="widget_label_2x1">내 위치 2 x 1</string>
+  <string name="widget_label_4x1">내 위치 4 x 1</string>
+  <string name="my_location">내 위치</string>
+  <string name="app_name">내 위치 도구</string>
+  <string name="location_not_found">위치를 찾을 수 없다</string>
+  <string name="tap_here_to_fix_that">위치 설정을 수정 하려면 여기를 누르십시오.</string>
+  <string name="share_location">공유 위치</string>
+  <string name="view_location">보기 위치</string>
+  <string name="unknown_location">알 수 없는 위치</string>
+  <string name="determining_address">주소 확인...</string>
+  <string name="finding_location">위치 찾기</string>
+  <string name="tap_to_get_location">&lt; 수돗물 아이콘 위치를 얻을 수 있습니다.</string>
+  <string name="tap_to_cancel">취소를 누릅니다.</string>
+  <string name="cannot_share_location">위치를 공유할 수 없습니다.</string>
+  <!-- Share Types -->
+  <string name="address">주소</string>
+  <string name="coordinates">좌표</string>
+  <string name="maps_link">지도 링크</string>
+  <string name="address_with_link">맵 링크 주소</string>
+  <!-- View Types -->
+  <string name="you_are_here">여기에</string>
+  <string name="your_friend_is_here">여기 당신의 친구가입니다.</string>
+</resources>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">私の場所 1 x 1</string>
+  <string name="widget_label_2x1">私の場所 2 x 1</string>
+  <string name="widget_label_4x1">私の場所の 4 x 1</string>
+  <string name="my_location">私の場所</string>
+  <string name="app_name">私の場所のウィジェット</string>
+  <string name="location_not_found">場所を検索することはできません。</string>
+  <string name="tap_here_to_fix_that">場所の設定を修正するには、ここをタップします。</string>
+  <string name="share_location">共有の場所</string>
+  <string name="view_location">ビューの場所</string>
+  <string name="unknown_location">不明な場所</string>
+  <string name="determining_address">アドレスを解決しています</string>
+  <string name="finding_location">場所の検索</string>
+  <string name="tap_to_get_location">&lt; タップのアイコンの場所を取得します。</string>
+  <string name="tap_to_cancel">キャンセルするをタップします。</string>
+  <string name="cannot_share_location">場所を共有することはできません。</string>
+  <!-- Share Types -->
+  <string name="address">アドレス</string>
+  <string name="coordinates">座標</string>
+  <string name="maps_link">マップのリンク</string>
+  <string name="address_with_link">アドレスにマップ リンク</string>
+  <!-- View Types -->
+  <string name="you_are_here">ここにいます。</string>
+  <string name="your_friend_is_here">ここであなたの友人であります。</string>
+</resources>

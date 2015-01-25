@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Oma sijainti 1 x 1</string>
+  <string name="widget_label_2x1">Oma sijainti 2 x 1</string>
+  <string name="widget_label_4x1">Oma sijainti 4 x 1</string>
+  <string name="my_location">Oma sijainti</string>
+  <string name="app_name">Sijainti-Widget</string>
+  <string name="location_not_found">Ei löydä sijainti</string>
+  <string name="tap_here_to_fix_that">Korjaa sijainnin asetukset napauttamalla tätä.</string>
+  <string name="share_location">Jaetun resurssin sijainti</string>
+  <string name="view_location">Näytä sijainti</string>
+  <string name="unknown_location">Tuntematon sijainti</string>
+  <string name="determining_address">Ratkaiseminen osoite...</string>
+  <string name="finding_location">Etsitään sijainti</string>
+  <string name="tap_to_get_location">&lt; napauttamalla kuvaketta saat sijainti.</string>
+  <string name="tap_to_cancel">Peruuta napauttamalla.</string>
+  <string name="cannot_share_location">Sijainti ei voi jakaa.</string>
+  <!-- Share Types -->
+  <string name="address">Osoite</string>
+  <string name="coordinates">Koordinaatit</string>
+  <string name="maps_link">Kartat linkki</string>
+  <string name="address_with_link">Sivustokartan linkin osoite</string>
+  <!-- View Types -->
+  <string name="you_are_here">Olet tässä</string>
+  <string name="your_friend_is_here">Your Friend on tässä</string>
+</resources>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">מיקום שלי 1 x 1</string>
+  <string name="widget_label_2x1">מיקום שלי 2 x 1</string>
+  <string name="widget_label_4x1">מיקום שלי 4 x 1</string>
+  <string name="my_location">מיקום שלי</string>
+  <string name="app_name">רכיב Widget של מיקום שלי</string>
+  <string name="location_not_found">אין חיפוש מיקום</string>
+  <string name="tap_here_to_fix_that">הקש כאן כדי לתקן את הגדרות המיקום.</string>
+  <string name="share_location">מיקום משותף</string>
+  <string name="view_location">מיקום התצוגה</string>
+  <string name="unknown_location">מיקום לא ידועה</string>
+  <string name="determining_address">זיהוי כתובת...</string>
+  <string name="finding_location">איתור מיקום</string>
+  <string name="tap_to_get_location">&lt; סמל הקשה כדי לקבל את המיקום.</string>
+  <string name="tap_to_cancel">הקש כדי לבטל.</string>
+  <string name="cannot_share_location">אין אפשרות לשתף את המיקום.</string>
+  <!-- Share Types -->
+  <string name="address">כתובת</string>
+  <string name="coordinates">קואורדינטות</string>
+  <string name="maps_link">מפות קישור</string>
+  <string name="address_with_link">כתובת עם קישור מפה</string>
+  <!-- View Types -->
+  <string name="you_are_here">אתה כאן</string>
+  <string name="your_friend_is_here">ידיד שלך היא כאן</string>
+</resources>

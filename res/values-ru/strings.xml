@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Мое место 1 x 1</string>
+  <string name="widget_label_2x1">Мое место 2 x 1</string>
+  <string name="widget_label_4x1">Мое место 4 x 1</string>
+  <string name="my_location">Мое местоположение</string>
+  <string name="app_name">Мое местоположение виджет</string>
+  <string name="location_not_found">Не удается найти местоположение</string>
+  <string name="tap_here_to_fix_that">Коснитесь здесь, чтобы исправить параметры расположения.</string>
+  <string name="share_location">Размещение акций</string>
+  <string name="view_location">Вид склада</string>
+  <string name="unknown_location">Неизвестное место</string>
+  <string name="determining_address">Разрешение адреса...</string>
+  <string name="finding_location">Найти место</string>
+  <string name="tap_to_get_location">&lt; нажмите значок, чтобы получить расположение.</string>
+  <string name="tap_to_cancel">Нажмите, чтобы отменить.</string>
+  <string name="cannot_share_location">Не могут иметь место.</string>
+  <!-- Share Types -->
+  <string name="address">Адрес</string>
+  <string name="coordinates">Координаты</string>
+  <string name="maps_link">Карты связи</string>
+  <string name="address_with_link">Адрес и карта связи</string>
+  <!-- View Types -->
+  <string name="you_are_here">Вы находитесь здесь</string>
+  <string name="your_friend_is_here">Ваш друг-здесь</string>
+</resources>

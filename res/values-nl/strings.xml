@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Mijn locatie 1 x 1</string>
+  <string name="widget_label_2x1">Mijn locatie 2 x 1</string>
+  <string name="widget_label_4x1">Mijn locatie 4 x 1</string>
+  <string name="my_location">Mijn locatie</string>
+  <string name="app_name">Mijn locatie widget</string>
+  <string name="location_not_found">Kan niet vinden locatie</string>
+  <string name="tap_here_to_fix_that">Tik hier om op te lossen van de locatie-instellingen.</string>
+  <string name="view_location">Weergave locatie</string>
+  <string name="unknown_location">Onbekende locatie</string>
+  <string name="determining_address">Omzetten van adres...</string>
+  <string name="finding_location">Het vinden van locatie</string>
+  <string name="tap_to_get_location">&lt; Tik pictogram voor locatie.</string>
+  <string name="tap_to_cancel">Tik op om te annuleren.</string>
+  <string name="cannot_share_location">Niet delen locatie.</string>
+  <!-- Share Types -->
+  <string name="address">Adres</string>
+  <string name="coordinates">Coördinaten</string>
+  <string name="maps_link">De verwijzing van de kaarten</string>
+  <string name="address_with_link">Adres met de verwijzing van de kaart</string>
+  <!-- View Types -->
+  <string name="you_are_here">U bent hier</string>
+  <string name="your_friend_is_here">Uw vriend is hier</string>
+</resources>

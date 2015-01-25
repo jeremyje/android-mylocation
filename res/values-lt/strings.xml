@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="widget_label_1x1">Mano vieta 1 x 1</string>
+  <string name="widget_label_2x1">Mano vietos 2 x 1</string>
+  <string name="widget_label_4x1">Mano vietos 4 x 1</string>
+  <string name="my_location">Mano vietos</string>
+  <string name="app_name">Mano vietos widget</string>
+  <string name="location_not_found">Negali rasti vietos</string>
+  <string name="tap_here_to_fix_that">Nustatyti vietos parametrus, bakstelėkite čia.</string>
+  <string name="share_location">Dalis vieta</string>
+  <string name="view_location">Peržiūrėti vieta</string>
+  <string name="unknown_location">Nežinoma vieta</string>
+  <string name="determining_address">Išspręsti adresas...</string>
+  <string name="finding_location">Rasti vietos</string>
+  <string name="tap_to_get_location">&lt; bakstelėkite piktogramą, norėdami gauti vietą.</string>
+  <string name="tap_to_cancel">Bakstelėkite norėdami atšaukti.</string>
+  <string name="cannot_share_location">Negalite bendrai naudoti vietą.</string>
+  <!-- Share Types -->
+  <string name="address">Adresas</string>
+  <string name="coordinates">Koordinatės</string>
+  <string name="maps_link">Žemėlapiai nuoroda</string>
+  <string name="address_with_link">Adresas su schema link</string>
+  <!-- View Types -->
+  <string name="you_are_here">Jūs esate čia</string>
+  <string name="your_friend_is_here">Jūsų draugui yra čia</string>
+</resources>

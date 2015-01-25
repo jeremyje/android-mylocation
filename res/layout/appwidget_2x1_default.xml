@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/appwidget_bg">
+
+    <ImageButton
+        android:id="@+id/btnAction"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:src="@drawable/btn_search"
+        android:background="@drawable/appwidget_button_left"
+        android:scaleType="centerInside"
+        />
+        
+	<ImageView
+        android:layout_width="1dip"
+        android:layout_height="fill_parent"
+        android:background="@drawable/appwidget_divider"
+        />
+        
+    <ImageButton
+        android:id="@+id/btnShare"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:src="@drawable/btn_share"
+        android:background="@drawable/appwidget_button_center"
+        android:scaleType="centerInside"
+        />
+        
+	<ImageView
+        android:layout_width="1dip"
+        android:layout_height="fill_parent"
+        android:background="@drawable/appwidget_divider"
+        />
+        
+	<ImageButton
+        android:id="@+id/panelInformation"
+        android:layout_width="0dip"
+        android:layout_weight="1"
+        android:layout_height="fill_parent"
+        android:src="@drawable/btn_viewmap"
+        android:background="@drawable/appwidget_button_right"
+        android:scaleType="centerInside"
+        />
+
+</LinearLayout>
